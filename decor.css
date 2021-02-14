@@ -1,0 +1,16 @@
+body {color: black;}
+body {background-image:url(crypto/crypt.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+}
+.content{
+    background: white;
+    width: 50%;
+    margin: 100px auto;
+    font-family: calibri;
+}
+p{
+    font-size: 25px;
+    color: rgb(137, 175, 161);
+
+}
